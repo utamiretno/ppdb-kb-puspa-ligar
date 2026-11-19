@@ -8,7 +8,7 @@
 - Klien: KB Puspa Ligar
 
 ## Deskripsi Proyek
-Pengembangan Sistem Informasi Pendaftaran Peserta Didik Baru (PPDB) Berbasis Web pada KB Puspa Ligar untuk membantu proses pendaftaran, pengelolaan data calon peserta didik, verifikasi dokumen, dan pelaporan.
+Pembuatan Sistem Informasi Pendaftaran Peserta Didik Baru (PPDB) Berbasis Web pada KB Puspa Ligar untuk membantu proses pendaftaran, pengelolaan data calon peserta didik, verifikasi dokumen, dan pelaporan.
 
 ## Tim Pengembang
 
@@ -38,4 +38,4 @@ Pengembangan Sistem Informasi Pendaftaran Peserta Didik Baru (PPDB) Berbasis Web
 6. M-06 Laporan & Monitoring
 
 ## Pengelolaan Proyek
-Repository ini digunakan sebagai tempat penyimpanan kode program, dokumentasi, pembagian tugas, dan pemantauan progres pengembangan sistem PPDB KB Puspa Ligar.
+Repository ini digunakan sebagai tempat penyimpanan kode program, dokumentasi, pembagian tugas, dan pemantauan progres pembuatan sistem PPDB KB Puspa Ligar.
