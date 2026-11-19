@@ -1,0 +1,5 @@
+-- Acuan skema basis data proyek PPDB KB Puspa Ligar.
+-- Struktur final mengikuti Bab 4 SDD yang disepakati tim.
+-- Simpan perubahan skema yang dapat dijalankan pada folder migrations.
+-- File ini belum berisi DDL dan tidak membuat tabel atau data.
+-- Akun aplikasi menggunakan tabel users dan hash bcrypt sesuai SDD.
